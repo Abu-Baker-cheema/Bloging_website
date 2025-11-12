@@ -1,6 +1,6 @@
 Flask
 gunicorn
-SQLAlchemy
+Flask-SQLAlchemy
 Werkzeug
 requests
 python-dotenv
