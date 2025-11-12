@@ -2,8 +2,8 @@
   "params":
   {
     "local_server": "True",
-    "local_uri": "mysql://root:@localhost/software_journel",
-    "prod_uri": "mysql://root:@localhost/software_journel",
+    "local_uri": "mysql+pymysql://root:@localhost/software_journel",
+    "prod_uri": "mysql+pymysql://root:@localhost/software_journel",
     "fb_url": "https://facebook/software_journel",
     "tw_url": "https://twitter/software_journel",
     "gh_url": "https://github/software_journel",
